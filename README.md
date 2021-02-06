@@ -1,7 +1,15 @@
 # conflict-resolution
 
+<<<<<<< HEAD
  ```md
   ## This is a subheading created locally
 
   All of this content added to the readme file has been added from my local Git repository.
   ```
+=======
+```md
+  ## This is a subheading created on GitHub
+
+  All of this content added to the readme file has been added from my remote GitHub repository.
+  ```
+>>>>>>> ad41c2fad96846e1927fe0d73a4768f15836a893
